@@ -1,2 +1,4 @@
 # DailyFlow
-DairyFlow is a dairy industry monitoring solution that helps track production machine performance, identify slow operations, notify monitoring staff, and maintain a complete history of alerts and machine status updates.
+A smart dairy production monitoring system.
+# Live Project
+[Click here to view DairyFlow](https://ai.studio/apps/18741f87-2d89-451e-9017-2967a7d9ebf2)
